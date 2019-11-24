@@ -1,2 +1,2 @@
-# responisive_design
+# responsive_design
 My firs website made to be responsive
